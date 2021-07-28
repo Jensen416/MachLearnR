@@ -13,3 +13,4 @@ dependencies:
   - r-caret
   - r-ellipse
   - r-e1071
+  - r-kernlab
